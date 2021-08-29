@@ -1,9 +1,3 @@
-/**
- * array banaya [    ]
- *              [ { object1 },{object2},{object3},{object4},{object5} ]
- * object must be with : not = , otherwise error , because objects are in key:value pair.
- * then export 
- */
 
 
 
