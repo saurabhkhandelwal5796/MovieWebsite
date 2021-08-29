@@ -1,12 +1,4 @@
-/*
-1) total 3 div banae
-    ist div me all cards,className = "cards"
-    2nd div me only image,className = "card","card__img"
-    3rd div me title,sname,link,button , className = "card__info,card__category,
-                                                card__title,"
-        yeh neeche Image,Heading,Title,Link inko import kara hai, isliye inko ,
-        <Imgae> aise</Imgae> tag lagake props.imgsrc lagake usekarah hai
-*/
+
 
 
 
