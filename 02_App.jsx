@@ -1,8 +1,8 @@
 
 
 import React, { Component } from 'react'
-import Card from "./03_Cards"; // Card me data ja raha hai
-import Sdata from "./04_Sdata" // Sdata se data aa raha hai
+import Card from "./03_Cards"; 
+import Sdata from "./04_Sdata"
 
 
 
